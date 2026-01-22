@@ -1,0 +1,40 @@
+body{
+  background-image: url();
+  background-color: rgb(129, 129, 90);
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 3%;
+  color: rgb(13, 2, 24);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 5ch;
+  font-weight: bold;
+  
+}
+
+h1,h2,h3 {
+  background-image: url();
+  background-color: rgba(193, 141, 51, 0.794);
+  color: rgb(214, 81, 4);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  line-height: normal;
+  text-decoration: underline;
+  margin: 5;
+  font-size:30px; 
+}
+
+p{
+  color:rgb(116, 54, 66);
+}
+
+li {
+  color: rgb(14, 1, 1);
+}
+legend, fieldset {
+  color: rgb(12, 9, 9);
+}
+
+.rate {
+  color: rgba(218, 75, 9, 0.828);
+}
+
